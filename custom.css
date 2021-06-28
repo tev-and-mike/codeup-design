@@ -1,7 +1,18 @@
 body {
     font-family: 'Abel', sans-serif;
+    background-color: #e6e6e6;
 }
 
 h1, h2, h3, h4, h5, h5 {
     font-family: 'Anton', sans-serif;
+}
+
+nav {
+    height: 100px;
+    margin-top: 70px;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
 }
