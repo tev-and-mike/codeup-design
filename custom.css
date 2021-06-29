@@ -48,7 +48,6 @@ a {
 .large-circle {
     height: 150px;
     width: 150px;
-    line-height: calc(100px - 10px);
     color: #f0f0f0;
     border: 5px solid #f0f0f0;
 }
