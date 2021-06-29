@@ -1,6 +1,6 @@
 body {
     font-family: 'Abel', sans-serif;
-    background-color: #e6e6e6;
+    background-color: #f0f0f0;
 }
 
 h1, h2, h3, h4, h5, h5 {
@@ -48,7 +48,13 @@ a {
 .large-circle {
     height: 150px;
     width: 150px;
-    color: #f0f0f0;
-    border: 5px solid #f0f0f0;
+    color: #ffffff;
+    border: 5px solid #ffffff;
 }
+
+.img-border {
+    border: solid 15px #e6e6e6;
+    border-radius: 10px;
+}
+
 
