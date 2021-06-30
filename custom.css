@@ -60,3 +60,8 @@ a {
 hr {
     border: 2px solid #d6d6d6;
 }
+
+.thumbnail {
+    height: 50px;
+    width: 50px;
+}
